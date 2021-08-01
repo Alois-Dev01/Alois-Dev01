@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alois-Dev01
-- 👀 I’m interested in creating social impact through AI
-- 🌱 I’m currently learning NLP and Machine learning
+- 👀 I’m interested in creating social impact through technology
+- 🌱 I’m currently learning programming
 
 
 <!---
