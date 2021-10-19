@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alois-Dev01
-- 👀 I’m interested in creating social impact through technology
+- :D I’m interested in creating social impact through technology
 - 🌱 I’m currently learning programming and building new projects
 
 
